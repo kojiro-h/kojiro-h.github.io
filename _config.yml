@@ -10,16 +10,16 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 
 # main title
-title: Corey Goldberg
+title: KH
 
 # subtitle
 tagline: Blog
 
 # used by seo meta and the atom feed
-description: Blog by Corey Goldberg
+description: Blog by KH
 
 # protocol & hostname for your site (it does not end with a '/')
-url: https://coreygoldberg.com
+url: kojiro-h.github.io
 
 author:
   name: Corey Goldberg
@@ -27,17 +27,17 @@ author:
   url: https://github.com/cgoldberg
 
 github:
-  username: cgoldberg
+  username: kojiro-h
 
 #twitter:
 #  username: cgoldberg
 
 social:
   # displayed as the default author of the posts and the copyright owner in the footer
-  name: Corey Goldberg
+  name: K H
   #email: example@domain.com
   links:
-    - https://github.com/cgoldberg
+    - https://kojiro-h.github.io
 
 #webmaster_verifications:
 #  google:
@@ -47,7 +47,7 @@ social:
 # web analytics settings
 analytics:
   google:
-    id: G-VDZPG2HGL4
+    id: 
 
 # color scheme setting
 # note: empty will follow the system prefer color by default,
@@ -57,7 +57,7 @@ analytics:
 theme_mode: dark
 
 # avatar on sidebar (supports local or CORS resources)
-avatar: /assets/img/corey_goldberg.jpg
+avatar: /assets/img/XXX.jpg
 
 # global switch for TOC in posts (boolean)
 toc: false
