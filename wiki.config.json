@@ -1,0 +1,8 @@
+{
+  "title": "HARA Kojiroのウェブサイト",
+  "navigation": "./nav.md",
+  "defaultPage": "intro",
+  "tableOfContents": true,
+  "header": "./header.md",
+  "footer": "./footer.md"
+}

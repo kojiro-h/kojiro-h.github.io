@@ -1,0 +1,1 @@
+[**HARA Kojiro**](?page=intro) のウェブサイト
