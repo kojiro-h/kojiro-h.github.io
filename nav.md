@@ -1,4 +1,4 @@
-- [Intro](?page=intro)
-- [講義](?page=lecture)
-- [研究](?page=research)
+- [自己紹介/Introduction](?page=intro)
+- [講義/Lecture](?page=lecture)
+- [研究/Research](?page=research)
 - [English](?page=english)
