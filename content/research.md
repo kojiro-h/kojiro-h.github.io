@@ -80,9 +80,9 @@
 ---
 
 ## 所属学会 Societies
-+ 日本分子生物学会
++ [日本分子生物学会](https://www.mbsj.jp)
 + 日本植物バイオテクノロジー学会
-+ 日本地衣学会
++ [日本地衣学会](https://www.lichenology-jp.org/ja)
 + 日本農芸化学会
 + 日本菌学会
 
