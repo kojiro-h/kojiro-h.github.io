@@ -1,7 +1,3 @@
----
-created: 2025-04-02T15:59:11
-updated: 2026-08-11T22:33:30
----
 # HARA Kojiro のウェブサイト
 
 ## About
@@ -10,7 +6,7 @@ updated: 2026-08-11T22:33:30
 職名：准教授
 学位：博士（バイオサイエンス）
 
-![photo](７２_Website/lobster/content/153.jpg)
+![photo](153.jpg)
 
 ---
 
@@ -33,6 +29,6 @@ e-mail: kojiro_h☕️akita-pu.ac.jp
 ---
 
 :::footer
-最終更新 2026-04-21 16:00
+updated: 2026-08-11T22:33:30
 :::
 
