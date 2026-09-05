@@ -20,7 +20,7 @@ e-mail: kojiro_h☕️akita-pu.ac.jp
 
 ---
 
-## Link
+## Links
 + [生物生産科学科 教員ページ](https://www.dbp.akita-pu.ac.jp/~hara/index.html)
 + [Researchmap](http://researchmap.jp/kojiro_h/)
 + [ResearchGate](https://www.researchgate.net/profile/Kojiro_Hara)
