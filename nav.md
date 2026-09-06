@@ -5,4 +5,4 @@ Home
 - [English](?page=english)
 
 Log
-- [test](?page=log)
+- [2026-27](?page=2026-27)
