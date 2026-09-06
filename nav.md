@@ -1,5 +1,5 @@
-TOP
-- [自己紹介/Introduction](?page=intro)
+Home
+- [自己紹介/Introduction](?page=home)
 - [講義/Lecture](?page=lecture)
 - [研究/Research](?page=research)
 - [English](?page=english)
