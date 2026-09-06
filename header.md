@@ -1,1 +1,1 @@
-[**HARA Kojiro**](?page=intro) のウェブサイト
+[**HARA Kojiro**](?page=home) のウェブサイト
