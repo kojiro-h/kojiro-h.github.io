@@ -4,5 +4,5 @@ Home
 - [研究/Research](?page=research)
 - [English](?page=english)
 
-Test
-- [test](?page=test)
+Log
+- [test](?page=log)
