@@ -18,7 +18,7 @@
 ### 5セメ
 + 植物生化学
 
-### 7セメ
+### 6セメ
 + 次世代生物生産システム学
 
 ### 大学院
@@ -35,9 +35,10 @@
 
 ## リンク（イントラのみ）
 + [イントラ教材置き場](http://iwww.akita.akita-pu.ac.jp/~hara/)
++ [シラバス](https://www.akita-pu.ac.jp/student/calendar/student0100)
 
 ---
 
 :::footer
-updated: 2026-08-11T22:34:32
+updated: 2026-09-12
 :::
