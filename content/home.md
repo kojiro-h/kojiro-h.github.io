@@ -2,7 +2,7 @@
 
 ## About
 氏名：原　光二郎（はら　こうじろう）
-所属：生物生産科学科 [植物資源創成システムグループ](http://www.lichen.akita-pu.ac.jp/index.shtml)
+所属：生物生産科学科 [植物資源創成システムグループ](https://www.akita-pu.ac.jp/bioresource/DBP/Creation/index.html)
 職名：准教授
 学位：博士（バイオサイエンス）
 
