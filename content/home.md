@@ -22,8 +22,8 @@ e-mail: kojiro_h☕️akita-pu.ac.jp
 
 ## Links
 + [秋田県立大学](https://www.akita-pu.ac.jp/)
-+ [生物生産科学科](http://www.dbp.akita-pu.ac.jp/)
-+ [生物生産科学科 教員ページ](https://www.dbp.akita-pu.ac.jp/~hara/index.html)
++ [生物生産科学科](https://www.akita-pu.ac.jp/bioresource/DBP/index.html)
++ [生物生産科学科 教員ページ](https://www.akita-pu.ac.jp/bioresource/DBP/lecture_hara.html)
 + [Researchmap](http://researchmap.jp/kojiro_h/)
 + [ResearchGate](https://www.researchgate.net/profile/Kojiro_Hara)
 + [ORCID](https://orcid.org/0000-0002-5423-2419)
@@ -31,6 +31,6 @@ e-mail: kojiro_h☕️akita-pu.ac.jp
 ---
 
 :::footer
-updated: 2026-08-11T22:33:30
+updated: 2026-11-26 10:30
 :::
 
