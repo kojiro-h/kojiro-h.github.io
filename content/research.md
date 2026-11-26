@@ -23,6 +23,8 @@
 ---
 
 ## 発表 Presentations
++ [第25回日本地衣学会（東京）](https://www.lichenology-jp.org/ja/field/meeting/2026_Kiyose), 2026/11/22-23
+  + 安武詩織，石川淑瑛，__原光二郎__，川上寛子，小峰正史，山本好和, 地衣菌の液体培養と染色への応用（２）, 日本地衣学会第25回大会 口頭発表, 2026.11.23
 + [第24回日本地衣学会（延岡）](https://www.lichenology-jp.org/ja/field/meeting/2025_Nobeoka), 2025/11/22-23
   + __原光二郎__, 日本産地衣類のDNA情報の現状, 日本地衣学会第24回大会 ミニシンポジウム「日本産地衣類の総合的なデータベースの整備，現状と課題」, 2025.11.22
 + [第17回日本地衣学会（栃木）](http://www.lichenology-jp.org/ja/field/meeting/2018_tochigi), 2018/9/1-2
